@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Akhlakur Rahman
 
-<!--
-**AkhlakuRahman1451/AkhlakuRahman1451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 CSE Student | Future AI Engineer
+- 💡 Passionate about Machine Learning & LLMs
+- 🚀 Currently learning LangChain, Python & AI Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming:** C, Python, JavaScript
+- **AI/ML:** LangChain, LLM Basics, Data Handling
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📚 Currently Learning
+
+- LangChain & LLM Applications
+- Prompt Engineering
+- Vector Databases (FAISS, Chroma)
+
+---
+
+## 🎯 Goals
+
+- Build real-world AI applications
+- Contribute to open-source LLM projects
+- Become a professional AI Engineer
+
+---
+
+## 🔗 Connect with Me
+
+📺 **YouTube:** [Subscribe to my Channel](http://www.youtube.com/@akhlakurrahman7846)  
+💼 **LinkedIn:** [Connect on LinkedIn](www.linkedin.com/in/
+md-akhlakur-rahman-596271328
+)  
+📧 **Email:** akhlakurrahman684@gmail.com
